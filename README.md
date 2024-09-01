@@ -1,0 +1,1 @@
+# moving-avg-trading-strategy
